@@ -1,8 +1,8 @@
-# Página de QA Tester
+# QA Tester
 
 ## Mi Fotografía
 
-<img src="assets/Mee2019.jpg" alt="Mario QA Tester" width="300">
+![Mario QA Tester]([https://ejemplo.com/foto-mario.jpg](https://drive.google.com/file/d/1P5qfPAk5XGySV4_7UImLz2rgL76VElik/view?usp=drive_link))
 
 ---
 
