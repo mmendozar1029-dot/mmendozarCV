@@ -2,7 +2,7 @@
 
 ## Mi Fotografía
 
-![Mario QA Tester](assets/Mee2019.jpg)
+<img src="assets/Mee2019.jpg" alt="Mario QA Tester" width="300">
 
 ---
 
