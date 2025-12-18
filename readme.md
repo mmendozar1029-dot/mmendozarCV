@@ -1,7 +1,8 @@
 # Página de QA Tester
 
-Este proyecto en **GitHub Pages** está dedicado a mi presentación profesional como **QA Tester**.  
-El objetivo es mostrar quién soy, mis habilidades principales y mi enfoque en la calidad del software.
+## Mi Fotografía
+
+![Mario QA Tester](assets/Mee2019.jpg)
 
 ---
 
