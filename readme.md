@@ -2,7 +2,8 @@
 
 ## Mi Fotografía
 
-![Mario QA Tester](https://drive.google.com/file/d/1P5qfPAk5XGySV4_7UImLz2rgL76VElik/view?usp=drive_link))
+![Mario QA Tester](Mee2019.jpg)
+
 
 ---
 
