@@ -2,7 +2,7 @@
 
 ## Mi Fotografía
 
-![Mario QA Tester]([https://ejemplo.com/foto-mario.jpg](https://drive.google.com/file/d/1P5qfPAk5XGySV4_7UImLz2rgL76VElik/view?usp=drive_link))
+![Mario QA Tester](https://drive.google.com/file/d/1P5qfPAk5XGySV4_7UImLz2rgL76VElik/view?usp=drive_link))
 
 ---
 
@@ -65,7 +65,7 @@ Incluye:
 
 ## ✨ Autor
 
-Creado por **Mario**  
+Creado por **Mario Arturo**  
 - Ubicación: Zapopan, Jalisco, México  
 - Perfil: QA Tester / Oracle DBA  
 - Intereses: Optimización de apps cívicas, documentación clara y cumplimiento legal en proyectos técnicos.  
