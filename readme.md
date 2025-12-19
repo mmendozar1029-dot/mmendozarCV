@@ -2,7 +2,21 @@
 
 ## Mi Fotografía
 
-![Mario QA Tester](Mee2019.jpg)
+# QA Tester - Presentación
+
+<div align="center">
+  <img src="Mee2019.jpg" alt="Mario QA Tester" width="200" style="border-radius:50%">
+  
+  <h2>Mario - QA Tester / Oracle DBA</h2>
+  <p>
+    Soy un profesional metódico y detallista, especializado en pruebas de software y validación de sistemas críticos.<br>
+    Experto en Oracle DBA, RAC, Data Guard y RMAN, con experiencia en QA para aplicaciones cívicas y de movilidad.<br>
+    Me apasiona crear checklists editables, guías visuales y documentación clara para optimizar procesos.
+  </p>
+</div>
+
+
+
 
 
 ---
