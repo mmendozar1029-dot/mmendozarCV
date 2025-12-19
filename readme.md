@@ -1,7 +1,3 @@
-# QA Tester
-
-## Mi Fotografía
-
 # QA Tester - Presentación
 
 <div align="center">
@@ -10,7 +6,7 @@
   <h2>Mario - QA Tester / Oracle DBA</h2>
   <p>
     Soy un profesional metódico y detallista, especializado en pruebas de software y validación de sistemas críticos.<br>
-    Experto en Oracle DBA, RAC, Data Guard y RMAN, con experiencia en QA para aplicaciones cívicas y de movilidad.<br>
+    Experto en Oracle DBA, Oracle MMA, FineTuning con experiencia en QA para aplicaciones cívicas y de movilidad.<br>
     Me apasiona crear checklists editables, guías visuales y documentación clara para optimizar procesos.
   </p>
 </div>
@@ -18,19 +14,6 @@
 
 
 
-
----
-
-## 👤 Presentación
-
-Hola, soy **Mario Arturo Mendoza **, QA Tester con experiencia en:
-
-- Diseño y ejecución de **casos de prueba**.  
-- Creación de **checklists editables** y guías visuales para validación.  
-- Pruebas de **funcionalidad, regresión y rendimiento** en aplicaciones cívicas y de movilidad.  
-- Conocimientos avanzados en **Oracle DBA, RAC, Data Guard y RMAN** para entornos críticos.  
-
-Me caracterizo por ser **metódico, detallista y colaborativo**, siempre buscando optimizar procesos y garantizar la estabilidad de los sistemas.
 
 ---
 # Portafolio QA Tester
